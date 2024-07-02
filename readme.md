@@ -12,16 +12,16 @@ Technical specification for create a simple site about 'A detectiv office'
    + Page 'My servicees'
    + Page 'Contacts'
 ### 3. Page title and contents
-   -  __Main page ([index.html](http://google.com))__
+   -  __Main page ([index.html](index.html))__
       - Greeting
       - Three button links to 'About me', 'Services' and 'Contacts'
-   - __Page 'About me' ([aboutme.hmtl](http://google.com))__
+   - __Page 'About me' ([aboutme.hmtl](about.html))__
         -  A brief biography of the detective
         -  Pictures of the detective in action
-  - __Page 'Services' ([service.html](http://google.com))__
+  - __Page 'Services' ([service.html](services.html))__
         - Our services, list of services
         - bref description of each service
-  - __Page 'Contacts' ([contacts.html](http://google.com))__
+  - __Page 'Contacts' ([contacts.html](contacts.html))__
         - Contact to the detective
   
   #### Note
